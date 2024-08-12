@@ -1,6 +1,5 @@
 # ReMixViT-Enhancing-Clinical-Image-Analysis-with-Hybrid-Vision-Transformers-and-Adaptive-Feature-Mix
 
-# ReMixViT: Enhancing Clinical Image Analysis with Hybrid Vision Transformers and Adaptive Feature Mixing
 This repository Keras implementation of the experimets conducted in '*ReMixViT: Enhancing Clinical Image Analysis with Hybrid Vision Transformers and Adaptive Feature Mixing**'. Codes are verified on python3.8.5 with tensorflow version '2.4.1'. Other dependencies are NumPy, cv2, sklearn, matplotlib, random, os, etc.
 
 **Data Resources:**
